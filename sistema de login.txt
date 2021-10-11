@@ -1,0 +1,4 @@
+digite seu e-mail
+digite seu nome
+digite seu endereço
+digite sua senha
